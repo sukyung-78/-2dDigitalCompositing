@@ -12,7 +12,8 @@ Week 03 Assignment
 - RGB
   : RGB색체계는 빛의 특성을 이용해 색상을 표현하는 방법으로 적색,녹색,청색의 삼원색이 각각 최댓삾이면 희색으로 되는 가산혼합법으로 색을 조합한다. 디지텅 영상에서 가장 기본적인 색공간 포맷으로 RGB는 사용되는 삼원색들의 첫글자를 의미한다. 일반적으로 sRGB와 Adobe RGB가 주로 사용된다.
 - sRGB(Standard RGB)
-
+인터넷 및 모니터프린트 등에 사용하기 위해 마이크로소프트와 HP가 서로 협력해 만든 쵸준 색공간이다. sRGB는 인터넷에 대해 권장된 색공간으로 컴퓨터 프린터 디지털 카메라 스캐너 역시 sRGB를 기본 색공간으로 사용한다. Adobe RGB는 sRGB에 비해 좀 더 다양한 색 표현이 가능하고, sRGB는 색을 좀 더 세밀하게 표현 할 수 있다.
+![텍스트](https://terms.naver.com/imageDetail.nhn?docId=5672486&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F3745_000_5%2F20180913105659247_S973AIIUF.gif%2Ffh2_231876_i1.gif%3Ftype%3Dm4500_4500_fst%26wm%3DN&cid=51399&categoryId=51399)
 - 애플 RGB(Apple RGB)
 - 어도비 RGB(Adobe RGB)
 - 비디오에서 가장 많이 사용하는 색공간 YUV, YCBcr/YPbPr

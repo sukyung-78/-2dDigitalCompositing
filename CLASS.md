@@ -36,6 +36,8 @@ Week 03 Assignment
 ![텍스트](http://pds22.egloos.com/pds/201102/16/11/a0112711_4d5b9b489b508.gif)
 감마는 수치와 커브가 가지는 느낌의 반대이다. 수치가 작아질수록 밝아지고, 수치가 높을 수록 어두워진다. 감마가 너무 낮으면 색이 씻겨나간 듯한 느낌이 들고, 반대로 너무 높으면 콘트라스트는 강해지지만 어두운 계조들의 디테일이 살아나지 않는 문제점이 있다.
 
+#### Linear workflow란?
+![텍스트](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Linear_Workflow_Graph_Principles.jpg/799px-Linear_Workflow_Graph_Principles.jpg)
 
 ###### 출처 https://terms.naver.com/entry.nhn?docId=1599252&cid=50332&categoryId=50332
 ###### http://www.tv4u.co.kr/guide/content.asp?idx=1483

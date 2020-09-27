@@ -29,5 +29,15 @@ Week 03 Assignment
 ---------------------------------------
 
 ### What is Gamma / Linear workflow
+#### 감마(Gamma)란?
+컴퓨터 화상의 중간톤을 조절하는 기능.
+기본 감마값은 IBM PC가 2.2, 매킨토시가 1.9로 출시된다. 기본 감마값에서 모니터의 상태에 따라 캘리브레이션을 할 수 있다. IBM PC의 경우는 초오샵 등 그래픽 프로그램에 내장되어 있는 감마값 조절 팔레트를 이용하고 조절하고, 매킨토시의 경우에는 감마값 조절 소프트웨어를 사용하여 중간 톤을 조절한다.
+![텍스트](http://www.monitor4u.co.kr/Review/review4u/ReviewImg/Control_1_brightness_500.png)
+![텍스트](http://pds22.egloos.com/pds/201102/16/11/a0112711_4d5b9b489b508.gif)
+감마는 수치와 커브가 가지는 느낌의 반대이다. 수치가 작아질수록 밝아지고, 수치가 높을 수록 어두워진다. 감마가 너무 낮으면 색이 씻겨나간 듯한 느낌이 들고, 반대로 너무 높으면 콘트라스트는 강해지지만 어두운 계조들의 디테일이 살아나지 않는 문제점이 있다.
 
+
+###### 출처 https://terms.naver.com/entry.nhn?docId=1599252&cid=50332&categoryId=50332
+###### http://www.tv4u.co.kr/guide/content.asp?idx=1483
+###### http://egloos.zum.com/gigaboy/v/10663201
 

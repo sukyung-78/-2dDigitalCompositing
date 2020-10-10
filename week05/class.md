@@ -9,14 +9,14 @@
 ### Symmetry(좌우배칭)
 ![텍스트](https://petapixel.com/assets/uploads/2016/09/symmetry-composition-800x533.jpg)
 ![텍스트](https://public-media.interaction-design.org/images/uploads/2472f68044629376b54f97def784b2ef.jpg)
-대표적으로 Wes nderson감독이 있다.(링크 참고)
-https://www.youtube.com/watch?v=oL0DseCrqfU
+  대표적으로 Wes nderson감독이 있다.(링크 참고)
+  https://www.youtube.com/watch?v=oL0DseCrqfU
 
 ### Rule of third
 ![텍스트](https://petapixel.com/assets/uploads/2016/09/rule-of-thirds-composition-800x533.jpg)
 ![텍스트](https://www.slrlounge.com/wp-content/uploads/2017/11/rule-of-thirds-panorama-lines-break-follow.jpg)
 ![텍스트](https://expertphotography.com/wp-content/uploads/2011/04/rule-of-thirds-dog.jpg)
-사람의 시선을 유도하는데 유리. 
+  사람의 시선을 유도하는데 유리. 
 
 ### Framing
 ![텍스트](https://i.pinimg.com/236x/ee/b2/76/eeb276525d24044fc144b889c88111f0.jpg)

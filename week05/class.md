@@ -30,3 +30,14 @@
 - 수직선 : 대각선에 비해 덜 다이나믹하다.
 - 수평선 : 다이나믹하지 않은 선형
 - 곡선 : 미묘한감정, 복잡한 감정을 표현 할 때 많이 사용.
+
+## patterns
+패턴을 이용해서 반복되는 이미지나 군중적인 모습, 깊이감을 표현 할 수 있다.
+
+## Depth
+- FM,MG,BG(초점에 따라 앞 , 중 , 뒤가 나뉘어 진다.)
+- Aerial Diffusion
+![텍스트](https://lh3.googleusercontent.com/proxy/PBgpRk0gEnP_PxvSdsTSRtBXBuy6rQZQsU3gOO4aMaArJcC8sDV6QRbl8KQu4Wa9pSIFprjbVpkDOTjbx7hMWQjPlSkrgB3iTfGqhmqlXsBAUQHwlws)
+
+## Color
+![텍스트](https://mypaintingclub.com/images/blog/large/39_gamut_landscapes.jpg)

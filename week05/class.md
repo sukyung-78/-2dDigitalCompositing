@@ -26,7 +26,7 @@
 ### Linear Motif
 ![텍스트](https://lh3.googleusercontent.com/proxy/ILoPvhh9D7k43-wb_xUqz0CmBxDJnjC0UdFwNf0t1mTNqUSIyu3STd2tru9MK_Iv5gzzoO0FwKA7c229ahQE3re5OIOcs8Rk21szZrK8AweI3_ugmae6MSHCrCiF6eI)
 프레임 한컷한컷을 선형적인 감성으로 표현 할 수 있다.
--대각선 : 매우 다이나믹하다.
--수직선 : 대각선에 비해 덜 다이나믹하다.
--수평선 : 다이나믹하지 않은 선형
--곡선 : 미묘한감정, 복잡한 감정을 표현 할 때 많이 사용.
+- 대각선 : 매우 다이나믹하다.
+- 수직선 : 대각선에 비해 덜 다이나믹하다.
+- 수평선 : 다이나믹하지 않은 선형
+- 곡선 : 미묘한감정, 복잡한 감정을 표현 할 때 많이 사용.

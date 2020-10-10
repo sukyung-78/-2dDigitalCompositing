@@ -9,7 +9,8 @@
 ### Symmetry(좌우배칭)
 ![텍스트](https://petapixel.com/assets/uploads/2016/09/symmetry-composition-800x533.jpg)
 ![텍스트](https://public-media.interaction-design.org/images/uploads/2472f68044629376b54f97def784b2ef.jpg)
-{% include 파일명.html id="https://www.youtube.com/watch?v=cptg_QP8tJU" %}
+<iframe width="640" height="360" src="https://www.youtube.com/embed/kTcRRaXV-fg?ecver=1"  
+ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 대표적으로 Wes nderson감독이 있다.
 
 ### 

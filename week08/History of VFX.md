@@ -89,6 +89,7 @@ VFX 기술 발전이 다시금 시작된 계기가 된 것은 스탠리 큐브�
 ![텍스트](https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.ebuzz.co.kr%2Fupload%2Fcontent%2F20080327%2F1_12_1(2).jpg%22&type=m10000_10000)
 ![텍스트](https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.ebuzz.co.kr%2Fupload%2Fcontent%2F20080327%2F1_12(29).jpg%22&type=m10000_10000)
 
+![Alt Text](https://i.gifer.com/7jjF.gif)
 ![텍스트](https://i.gifer.com/7jjF.gif)
 ![텍스트](https://static.javatpoint.com/fullformpages/images/vfx.png)
 ![텍스트](https://qph.fs.quoracdn.net/main-qimg-5ac514ad958db349949e1fa2d3e86287)

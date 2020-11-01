@@ -82,10 +82,18 @@ VFX 기술 발전이 다시금 시작된 계기가 된 것은 스탠리 큐브�
 
 ![텍스트](https://dbscthumb-phinf.pstatic.net/4548_000_1/20160812113411746_8IHFQC43J.jpg/ka36_2_i16.jpg?type=w406_fst&wm=N)
 ----------------------------------------
-## 3. VFX 기법(오늘 날 VFX)
+## 3. 오늘 날 VFX<br/>
+
 영화 ‘호로비치를 위하여’의 한 장면인 아래 그림은, CG를 이용한 VFX 작업의 예를 보여주는 것이다. 실제 피아니스트의 얼굴에 마커를 붙이고 촬영하여, 피아니스트의 얼굴을 영화배우의 얼굴로 교체했다. 여기에 쓰인 기술은 카메라 트래킹 기술 및 3차원 스캔 기술, 합성 기술 등이 적용되어 마치 실제 영화배우가 피아노를 치는 모습을 구현했다.<br/>
+
 ![텍스트](https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.ebuzz.co.kr%2Fupload%2Fcontent%2F20080327%2F1_12_1(2).jpg%22&type=m10000_10000)
 ![텍스트](https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.ebuzz.co.kr%2Fupload%2Fcontent%2F20080327%2F1_12(29).jpg%22&type=m10000_10000)
+
+![텍스트](https://i.gifer.com/7jjF.gif)
+![텍스트](https://static.javatpoint.com/fullformpages/images/vfx.png)
+![텍스트](https://qph.fs.quoracdn.net/main-qimg-5ac514ad958db349949e1fa2d3e86287)
+
+
 
 
 

@@ -8,7 +8,7 @@ VFX란 시각적인 특수효과(Visual FX)를 말한다. 존재할 수 없는 �
 [네이버 지식백과] VFX (매일경제, 매경닷컴)<br/>
 
         __즉, VFX란 시각적인 특수효과를 말하며, 컴퓨터 CG를 통해 현실처럼 보이게 하는 것.__<br/>
-<https://www.youtube.com/watch?v=gYu4esqvnQ0>
+[![Video Label](https://www.youtube.com/watch?v=gYu4esqvnQ0)
 
 ## 2. VFX의 역사 
 ## 3. VFX 기법(오늘 날 VFX및 회사)

@@ -17,16 +17,19 @@ VFX란 시각적인 특수효과(Visual FX)를 말한다. 존재할 수 없는 �
 영화를 발명한 것은 1895년 뤼미에르 형제이지만, 현실의 재현이 아닌 환상의 현실화라는 관점에서 VFX의 선구자는 조르쥬 멜리에스(Georges Melies)이다. 멜리에스는 일찍이 〈사라진 여인〉(1896), 〈유령의 성〉(1896) 등에서 환상을 시각화하는 특수 촬영기법들을 발명했다. 페이드, 디졸브, 이중인화, 매트(Matte), 고속/저속 촬영, 애니메이션 기법, 미니어처 촬영 등 이후 백 년 간 특수효과의 고전으로 자리잡게 될 많은 기법들이 1900년대 초반에 이미 개발되어 실제 적용되었다.<br/>
 
 그의 대표작인 〈달세계 여행(Le Voyage Dans La Lune)〉(1902)은 그가 이러한 기법들을 이미 능숙하게 사용하고 있었음을 보여준다.<br/>
+
 ![텍스트](https://dbscthumb-phinf.pstatic.net/4548_000_1/20160812113401853_6LA5R0TNU.jpg/ka36_2_i1.jpg?type=h227_fst&wm=N)
 ![텍스트](https://dbscthumb-phinf.pstatic.net/4548_000_1/20160812113401844_JL4FDE3A0.jpg/ka36_2_i2.jpg?type=h227_fst&wm=N)<br/>
 
 #### 1930년대<br/>
 미국 헐리우드 스튜디오의 황금기라고 불리는 1930년대는 아카데미 시상식에서 '시각효과상' 부문이 신설된 시기이기도 하다. 이 시기 유니버설 스튜디오를 중심으로 공포영화 장르가 인기를 누리게 되는데, 공포영화의 괴물 표현을 위해서 특수분장 및 스톱모션 촬영이 크게 발달하였다. 이 시기를 대표하는 특수분장 괴물의 이미지는 〈프랑켄슈타인(Frankenstein)〉(1931)과 〈킹콩(King Kong)〉(1933)이다.<br/>
+
 ![텍스트](https://dbscthumb-phinf.pstatic.net/4548_000_1/20160812113401855_C0SKZ9ZHJ.jpg/ka36_2_i3.jpg?type=h227_fst&wm=N)
 ![텍스트](https://dbscthumb-phinf.pstatic.net/4548_000_1/20160818135029438_VWTVFODLP.jpg/ka36_2_i4.jpg?type=h227_fst&wm=N)<br/>
 
 #### 1930년대 이후<br/>
 1930년대의 전성기를 지나 40~50년대를 거치면서, 헐리우드의 아성은 조금씩 무너지기 시작한다. 이 시기 헐리우드를 가장 위협한 것은 바로 텔레비전이었다. 헐리우드는 텔레비전에 대응하기 위한 전략으로 관객들에게 스펙터클한 시각적 체험을 전달하는 것을 목표로 삼는다. 1920년대 후반에 개발된 유성영화 및 컬러영화에 더하여, 이 시기에 개발된 3D 영화, 와이드스크린(시네라마, 시네마스코프), 스테레오 시스템 등은 〈벤허(Ben-Hur)〉(1959), 〈사운드 오브 뮤직(The Sound Of Music)〉(1965)와 같은 거대 규모의 사극, 또는 뮤지컬 등에 활용되어 관객들을 사로잡았다. 그러나 이 시기에 상대적으로 VFX의 기술 개발 자체는 두드러지지 않았으며, 1930년대에 이미 개발된 특수분장 기술들이 〈지구 최후의 날(The Day The Earth Stood Still)〉(1951) 과 같은 소위 'B급 SF영화'를 통해 반복 재생산 되었다.<br/>
+
 ![지구최후의 날](https://t1.daumcdn.net/cfile/tistory/222E673558F8D54F05)<br/>
 
 VFX 기술 발전이 다시금 시작된 계기가 된 것은 스탠리 큐브릭 감독의 1968년작, 〈2001 스페이스 오딧세이(2001: A Space Odyssey)〉를 통해서였다. 감독을 맡은 스탠리 큐브릭과 VFX 담당이었던 더글라스 트럼블은 막대한 제작비를 들여 그 동안 축적되어 온 특수효과의 모든 기술을 총동원한 끝에 관객들에게 전혀 다른 시각적 경험을 제공했다. 이 영화는 영화의 시각적 표현력에 새로운 지평을 열었으며, 비슷한 시기 발전하고 있던 컴퓨터 그래픽스 기술과 연동되면서 결국 〈스타워즈〉(1977)로 이어지게 되었다.<br/>
@@ -37,6 +40,7 @@ VFX 기술 발전이 다시금 시작된 계기가 된 것은 스탠리 큐브�
 
 
 그러나 시리즈가 발전하면서, 수작업은 빠르게 자동화되었고 컴퓨터가 많은 부분을 담당하기 시작하였다. 그리하여 CG 장면이 영화씬에 삽입되기에 이르렀다.<br/>
+
 ![텍스트](https://i2.wp.com/vfxvoice.com/wp-content/uploads/2017/11/PIX-4-TheEmpireStrikesBack_tauntaun.jpg?resize=1000%2C671)<br/>
 
 - CG이전의 VFX의 기법<br/>
@@ -62,7 +66,22 @@ VFX 기술 발전이 다시금 시작된 계기가 된 것은 스탠리 큐브�
        
 
 ### 2. CG 이후의 VFX
-        
+
+1982년 디즈니는 영화 〈트론(Tron)〉에서 당시로서는 상상하기 어려운 수준인 15분 분량 235컷을 CG로 처리한 영화를 발표하였다. 이 영화는 흥행에서 참패함으로써 VFX 기술이 곧바로 작품의 질이나 흥행을 보장하는 것은 아니라는 사실을 보여주었지만, 동시에 CG가 영화 VFX의 보조수단이 아니라 주요한 표현수단으로 사용될 수 있음을 입증하기도 했다.<br/>
+
+〈트론〉의 시도는 1984년 〈최후의 스타 화이터(The Last Star fighter)〉의 성공으로 이어진다. 전체 영화의 30분 분량을 차지하는 우주장면을 기존의 세트촬영 및 미니어처 촬영 대신 CG로 대체한 이 영화는 큰 성공을 거두며 당시 '가장 성공적인 CG 삽입 영화'라는 평을 받기도 하였다.<br/>
+
+![텍스트](https://search.pstatic.net/common/?src=http%3A%2F%2Fpost.phinf.naver.net%2FMjAxOTA4MDZfNTYg%2FMDAxNTY1MDc3NTkyNTQw.puXQVioR7Q3DBVtFlgN5RiMw-hsZUc0_22enJLT-0Skg.PccvbsOjx9CW-6IRYTHL8p6NY5K6w_kOMypHhKOcWkMg.JPEG%2FIjIP8HmIclnZYoHylTGnj_PS0sd0.jpg&type=sc960_832)
+![텍스트](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODA2MDRfMjg1%2FMDAxNTI4MDgzMzM0OTM4.9eRZqBF5kkewzWE25NJdIitvlt-FTdxPRuZ33_58QDIg.VVvjOab7ztZpAsvQCZZAfx0F5NEYXBAbaJs99TDNEbsg.JPEG.conradmajors%2Flarge_e2TB0dAx7kqN2RoEhYlKndUU31B.jpg&type=sc960_832)<br/>
+
+80년대 까지 CG는 실사와의 합성 밑 배경 표현을 위한 수단으로만 사용됐었다. 하지만 〈터미네이터 2〉(1991)에 등장한 액체금속 로봇 T1000을 통해 관객들에게 충격을 줬으며, 이듬해 〈쥬라기 공원(Jurassic Park)〉(1993)의 디지털 공룡으로 이어진다. 스티븐 스필버그는 처음에는 애니매트로닉스를 이용해서 공룡 모형을 제작해서 촬영하고 CG 장면은 보조적으로만 사용할 계획이었으나, ILM이 제작한 공룡의 CG 샘플을 보고 디지털 공룡을 영화 전면에 등장시키기로 결정했고, 그 결과 영화 속 내용 그대로 이미 멸종해버린 공룡들을 스크린에 부활시켜놓은 듯한 시각적 체험을 제공했다.<br/>
+![텍스트](https://dbscthumb-phinf.pstatic.net/4548_000_1/20160812113408059_CXZ3DG5D2.jpg/ka36_2_i12.jpg?type=w460_fst&wm=N)<br/>
+
+이후, 영화 속 디지털 액터가 실사배우와 거의 근접한 지위까지 올라가는 한편, 같은 시기에 배우만 실사배우이되, 그 밖에 모든 것은 100% CG 작업으로 해결하는 일명 '스크린 영화'도 나타나기 시작하였다. 스크린 영화에서 배우들은 블루, 혹은 그린 스크린 앞에서 상상에 근거해서 연기를 하고, 실제 시각화는 CG로 만들어진 배경과의 합성을 통해서야 비로소 가능해진다.<br/>
+
+2004년 공개된 〈월드 오브 투모로우(Sky Captain And The World Of Tomorrow)〉는 영화의 모든 배경을 CG로 처리한 최초 의 100% 스크린 영화였다. 그 뒤를 〈씬시티(Sin City)〉(2005)가 이었다. 헐리우드 이외에 일본에서도 〈캐산(Casshern)〉(2004)을 통해 같은 시도가 이루어졌다.<br/>
+![텍스트](https://dbscthumb-phinf.pstatic.net/4548_000_1/20160812113411746_8IHFQC43J.jpg/ka36_2_i16.jpg?type=w406_fst&wm=N)
+----------------------------------------
 ## 3. VFX 기법(오늘 날 VFX)
 영화 ‘호로비치를 위하여’의 한 장면인 아래 그림은, CG를 이용한 VFX 작업의 예를 보여주는 것이다. 실제 피아니스트의 얼굴에 마커를 붙이고 촬영하여, 피아니스트의 얼굴을 영화배우의 얼굴로 교체했다. 여기에 쓰인 기술은 카메라 트래킹 기술 및 3차원 스캔 기술, 합성 기술 등이 적용되어 마치 실제 영화배우가 피아노를 치는 모습을 구현했다.
 ![텍스트](https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.ebuzz.co.kr%2Fupload%2Fcontent%2F20080327%2F1_12_1(2).jpg%22&type=m10000_10000)

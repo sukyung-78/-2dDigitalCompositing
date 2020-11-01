@@ -89,9 +89,9 @@ VFX 기술 발전이 다시금 시작된 계기가 된 것은 스탠리 큐브�
 ![텍스트](https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.ebuzz.co.kr%2Fupload%2Fcontent%2F20080327%2F1_12_1(2).jpg%22&type=m10000_10000)
 ![텍스트](https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.ebuzz.co.kr%2Fupload%2Fcontent%2F20080327%2F1_12(29).jpg%22&type=m10000_10000)<br/>
 
-![텍스트](https://static.javatpoint.com/fullformpages/images/vfx.png)
-![텍스트](https://qph.fs.quoracdn.net/main-qimg-5ac514ad958db349949e1fa2d3e86287)
-![텍스트](https://www.youtube.com/watch?v=VZk9mdVLb5w"Superman vs Justice League | Behind The Scenes")
+![텍스트](https://static.javatpoint.com/fullformpages/images/vfx.png)<br/>
+![텍스트](https://qph.fs.quoracdn.net/main-qimg-5ac514ad958db349949e1fa2d3e86287)<br/>
+![텍스트](https://www.youtube.com/watch?v=VZk9mdVLb5w"Superman vs Justice League | Behind The Scenes")<br/>
 
 미래에는 실제로 기존의 고전적 특수효과로는 카메라 트릭으로 재현하던 것들이디지털 VFX를 거쳐 고속촬영이나 디지털 인터미디어트를 이용해 다양한 카메라 트릭의 연출이 가능해지고, 특수 분장이나 미니어처 등도 CG합성으로 대체하거나 스턴트 또한 모션캡쳐 및 동역학 시뮬레이션, 디지털 액터로 실제 스턴트맨이 하지 않고 배우 본인의 동역학을 모델링해 배경에 적용시키는 기술이 이루어지고 있기 때문에 VFX의 영역은 점점 더 넓어질 것으로 예상된다.
 

@@ -87,22 +87,19 @@ VFX 기술 발전이 다시금 시작된 계기가 된 것은 스탠리 큐브�
 영화 ‘호로비치를 위하여’의 한 장면인 아래 그림은, CG를 이용한 VFX 작업의 예를 보여주는 것이다. 실제 피아니스트의 얼굴에 마커를 붙이고 촬영하여, 피아니스트의 얼굴을 영화배우의 얼굴로 교체했다. 여기에 쓰인 기술은 카메라 트래킹 기술 및 3차원 스캔 기술, 합성 기술 등이 적용되어 마치 실제 영화배우가 피아노를 치는 모습을 구현했다.<br/>
 
 ![텍스트](https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.ebuzz.co.kr%2Fupload%2Fcontent%2F20080327%2F1_12_1(2).jpg%22&type=m10000_10000)
-![텍스트](https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.ebuzz.co.kr%2Fupload%2Fcontent%2F20080327%2F1_12(29).jpg%22&type=m10000_10000)
+![텍스트](https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.ebuzz.co.kr%2Fupload%2Fcontent%2F20080327%2F1_12(29).jpg%22&type=m10000_10000)<br/>
 
-![VFX 과정](https://i.gifer.com/7jjF.mp4)
 ![텍스트](https://static.javatpoint.com/fullformpages/images/vfx.png)
 ![텍스트](https://qph.fs.quoracdn.net/main-qimg-5ac514ad958db349949e1fa2d3e86287)
-![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+![텍스트](https://www.youtube.com/watch?v=VZk9mdVLb5w"Superman vs Justice League | Behind The Scenes")
+
+미래에는 실제로 기존의 고전적 특수효과로는 카메라 트릭으로 재현하던 것들이디지털 VFX를 거쳐 고속촬영이나 디지털 인터미디어트를 이용해 다양한 카메라 트릭의 연출이 가능해지고, 특수 분장이나 미니어처 등도 CG합성으로 대체하거나 스턴트 또한 모션캡쳐 및 동역학 시뮬레이션, 디지털 액터로 실제 스턴트맨이 하지 않고 배우 본인의 동역학을 모델링해 배경에 적용시키는 기술이 이루어지고 있기 때문에 VFX의 영역은 점점 더 넓어질 것으로 예상된다.
 
 
-
-
-
-
-출처
-https://terms.naver.com/entry.nhn?docId=2834230&cid=43659&categoryId=43659
-https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%81_%ED%9A%A8%EA%B3%BC#:~:text=%EC%8B%9C%EA%B0%81%20%ED%9A%A8%EA%B3%BC(%E8%A6%96%E8%A6%BA%E6%95%88%E6%9E%9C)%20%EB%98%90%EB%8A%94,%ED%95%98%EB%8A%94%20%EB%8D%B0%20%EC%93%B0%EC%9D%B4%EB%8A%94%20%EC%9A%A9%EC%96%B4%EC%9D%B4%EB%8B%A4.
-https://www.youtube.com/watch?v=LhR5-tUfL8I
-https://www.youtube.com/watch?v=gYu4esqvnQ0
-[네이버 지식백과] 영화의 발전, CG 그리고 VFX (훤히 보이는 디지털 시네마, 2006. 11. 25., 김현빈, 김기호, 김진서, 김해동, 박창준, 이지형, 정일권, 추창우, 이민기)
+#### 참고자료, 출처
+1) https://terms.naver.com/entry.nhn?docId=2834230&cid=43659&categoryId=43659
+1) https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%81_%ED%9A%A8%EA%B3%BC#:~:text=%EC%8B%9C%EA%B0%81%20%ED%9A%A8%EA%B3%BC(%E8%A6%96%E8%A6%BA%E6%95%88%E6%9E%9C)%20%EB%98%90%EB%8A%94,%ED%95%98%EB%8A%94%20%EB%8D%B0%20%EC%93%B0%EC%9D%B4%EB%8A%94%20%EC%9A%A9%EC%96%B4%EC%9D%B4%EB%8B%A4.
+1) https://www.youtube.com/watch?v=LhR5-tUfL8I
+1) https://www.youtube.com/watch?v=gYu4esqvnQ0
+1) [네이버 지식백과] 영화의 발전, CG 그리고 VFX (훤히 보이는 디지털 시네마, 2006. 11. 25., 김현빈, 김기호, 김진서, 김해동, 박창준, 이지형, 정일권, 추창우, 이민기)
 

@@ -9,7 +9,7 @@ VFX란 시각적인 특수효과(Visual FX)를 말한다. 존재할 수 없는 �
 [네이버 지식백과] VFX (매일경제, 매경닷컴)<br/>
 
         
-        즉, VFX란 시각적인 특수효과를 말하며, 오늘 날, 컴퓨터 CG를 통해 현실처럼 보이게 하는 것.
+        즉, VFX란 시각적인 특수효과를 말하며, 실사 촬영 중에 발생 할 수 없는 영화 또는 기타 움직이는 미디어에 생성, 조작 된 이미지를 설명하는데 사용되는 용어이다.
         
 [![VFX Games - The Art of Compositing] (https://www.youtube.com/watch?v=gYu4esqvnQ0)<br/>
 ![](https://i.pinimg.com/originals/10/70/1c/10701c2e8622fb47cef6bd01200432c3.jpg)<br/>
@@ -86,7 +86,7 @@ VFX의 기법<br/>
                 핸드헬드 카메라는 기동성이 우수하지만, 이동시 흔들림이 발생한다는 단점이 있어서 이를 개선한 것이 바로 스테디캠이다.<br/>
        
         - 메트 페인팅
-                매트 페인팅은 실사 촬영이 어려운 영화 속의 특정 공간을 묘사하는 그림으로 할리우드 스튜디오 시스템의 전성기를 이끈 특수 시각효과다. 
+                매트 페인팅은 실사 촬영이 어려운 영화 속의 특정 공간을 묘사하는 그림으로 할리우드 스튜디오 시스템의 전성기를 이끈 특수 시각효과이다. 
                 매트 페인팅은 이야기 세상의 그럴듯함을 보장하는 배경 이미지를 재현하므로 고도의 사실적 표현이 요구된다. 
                 <오즈의 마법사>에서 매트 페인팅은 오즈의 나라의 환상성을 보여 주는 미학적 기제로 작용하는 동시에 주요 사건의 배경 공간을 사실적으로 재현하면서 이야기의 현실감을 높여 주었다.
         
@@ -99,6 +99,7 @@ VFX의 기법<br/>
         
         - 모션 캡쳐
                 사람, 동물 또는 기계 등의 사물에 센서를 달아 그 대상의 움직임 정보를 인식해 애니메이션, 영화, 게임 등의 영상 속에 재현하는 기술이다.
+                모션 캡쳐의 단점은 비용이 많이 든다는 점이 있다. 또한, 물리 법칙에 위배되는 즉, 캐릭터가 날거나 거꾸로 매달려 있는 경우는 모션 캽쳐를 사용할 수 없다.
                 
 ----------------------------------------
 ## 3. 오늘 날 VFX<br/>
@@ -117,8 +118,9 @@ VFX의 기법<br/>
 
 #### 참고자료, 출처
 1) https://terms.naver.com/entry.nhn?docId=2834230&cid=43659&categoryId=43659
-1) https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%81_%ED%9A%A8%EA%B3%BC#:~:text=%EC%8B%9C%EA%B0%81%20%ED%9A%A8%EA%B3%BC(%E8%A6%96%E8%A6%BA%E6%95%88%E6%9E%9C)%20%EB%98%90%EB%8A%94,%ED%95%98%EB%8A%94%20%EB%8D%B0%20%EC%93%B0%EC%9D%B4%EB%8A%94%20%EC%9A%A9%EC%96%B4%EC%9D%B4%EB%8B%A4.
-1) https://www.youtube.com/watch?v=LhR5-tUfL8I
+1) https://www.studiobinder.com/blog/what-is-vfx/
 1) https://www.youtube.com/watch?v=gYu4esqvnQ0
-1) [네이버 지식백과] 영화의 발전, CG 그리고 VFX (훤히 보이는 디지털 시네마, 2006. 11. 25., 김현빈, 김기호, 김진서, 김해동, 박창준, 이지형, 정일권, 추창우, 이민기)
-
+1) [네이버 지식백과] 영화의 발전, CG 그리고 VFX
+1) https://www.premiumbeat.com/blog/chroma-key-green-screen-guide/
+1) https://www.clipstudio.net/how-to-draw/archives/156700
+1) https://skywell.software/blog/what-is-motion-capture-definition-and-features/

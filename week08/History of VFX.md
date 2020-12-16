@@ -6,13 +6,18 @@
                 1. VFX의 사전적 의미
                 2. VFX와 SFX의 차이
                 3. VFX의 종류(기법)
+                
         2. VFX의 역사
                 1. 최초의 VFX
-                2. VFX의 역사
+                2. CG이전의 VFX
+                2. CG이후의 VFX
                 2. 애니메이션의 VFX
                 3. 영화의 VFX
+                
         3. 오늘날 사용되는 VFX
+        
         4. VFX의 미래 가능성
+        
         5. 참고자료 및 출처
 
  -------------------------------------       
@@ -33,9 +38,9 @@ VFX란 시각적인 특수효과(Visual FX)를 말한다. 존재할 수 없는 �
 [![VFX Games - The Art of Compositing] (https://www.youtube.com/watch?v=gYu4esqvnQ0)<br/>
 ![](https://i.pinimg.com/originals/10/70/1c/10701c2e8622fb47cef6bd01200432c3.jpg)<br/>
 
-###2. VFX와 SFX의 차이<br/>
+### 2. VFX와 SFX의 차이<br/>
 
-###3. VFX의 기법<br/>
+### 3. VFX의 기법<br/>
 
 ---------------------------------------------------------------------------
 ## 2. VFX의 역사 

@@ -46,8 +46,9 @@ SFX(Special Effects) : 실제 특수 효과<br/>
 ![](https://i.pinimg.com/236x/87/60/37/876037add62b645a3d4e897eb5146f11.jpg)<br/>
 
 VFXVisual effects) : 컴퓨터로 프레그래밍 한 특수효과<br/>
-<fx의 예><br/>
+<vfx의 예><br/>
 ![](https://i.gifer.com/7jjF.gif)<br/>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 둘의 차이점은 생산 과정에서 수행하는 부분에 있다. 

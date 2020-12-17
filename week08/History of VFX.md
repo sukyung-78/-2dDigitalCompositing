@@ -154,7 +154,7 @@ VFX의 기법<br/>
                 매트 페인팅은 이야기 세상의 그럴듯함을 보장하는 배경 이미지를 재현하므로 고도의 사실적 표현이 요구된다. 
                 <오즈의 마법사>에서 매트 페인팅은 오즈의 나라의 환상성을 보여 주는 미학적 기제로 작용하는 동시에 주요 사건의 배경 공간을 사실적으로 재현하면서 이야기의 현실감을 높여 주었다.
         
-        ![Alt Text](https://thumbs.gfycat.com/SadUnripeBeagle-small.gif)<br/>
+![Alt Text](https://thumbs.gfycat.com/SadUnripeBeagle-small.gif)<br/>
         
         - 크로마키
                 텔레비전의 화상합성(畵像合成)을 위한 특수기술.비디오신 또는 매직신이라고도 한다. 

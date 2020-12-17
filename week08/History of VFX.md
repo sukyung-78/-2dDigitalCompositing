@@ -15,7 +15,7 @@
                 4. 영화의 VFX
                 5. VFX의 기법
                 
-        3. 오늘날 사용되는 VFX
+        3. 오늘날 사용되는 VFX의 
         
         4. VFX의 미래 및 가능성
         
@@ -48,12 +48,14 @@ VFX란 시각적인 특수효과(Visual FX)를 말한다. 존재할 수 없는 �
 SFX(Special Effects) : 실제 특수 효과. 현실에 존재하지 않는 것들을 물리적으로 만들어낸 후 특수분장이나 특수소품 등을 더한 것. <br/>
 
 <sfx의 예><br/>
-![](https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/37114/article_full%401x.jpg)<br/>
+
+![](https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/37114/article_full%401x.jpg)
 ![](https://i.pinimg.com/236x/87/60/37/876037add62b645a3d4e897eb5146f11.jpg)<br/>
 
 VFX(Visual effects) : 컴퓨터로 프레그래밍 한 특수효과. CG로 만들어진 가상의 디지털 공간 속이 실제처럼 느껴지게 하는 것.<br/>
 
 <vfx의 예><br/>
+
 ![](https://i.ytimg.com/vi/NTc1VwnY-EA/maxresdefault.jpg)<br/>
 ![Alt Text](https://terrigen-cdn-dev.marvel.com/content/prod/1x/capvcap_vfx_gif_1.gif)<br/>
 
@@ -145,7 +147,13 @@ VFX 기술 발전이 다시금 시작된 계기가 된 것은 스탠리 큐브�
 
 ### 3. 애니메이션의 VFX<br/>
 
+애니메이션의 VFX 발전
+
+[텍스트](https://i.ytimg.com/vi/LXEB-t9s164/hqdefault.jpg)<br/>
+[텍스트](https://i1.wp.com/clemson.world/wp-content/uploads/2018/01/TeKa1.jpg)<br/>
 ### 4. 영화의 VFX<br/>
+
+### 5. 게임의 VFX 
 
 ### 5. VFX의 기법<br/>
 
@@ -166,6 +174,7 @@ VFX의 기법<br/>
                 흑백 ·컬러 텔레비전의 어느 것에도 사용할 수가 있다. 
                 끼워 맞춰지는 피사체에는 블루 계통의 색을 사용하면 잘 안되지만 반대로 블루 계통의 색을 의식적으로 사용해서 특수한 효과를 낼 수도 있다.
                 
+![Alt Text](https://savageuniversal.com/wp-content/uploads/2013/07/green-screen-vinyl.jpg)<br/>
 
 
         - 모션 캡쳐
@@ -199,7 +208,7 @@ VFX의 기법<br/>
 
 
 ----------------------------------------
-## 3. 오늘 날 사용되는 VFX<br/>
+## 3. 오늘 날 사용되는 VFX 예<br/>
 
 영화 ‘호로비치를 위하여’의 한 장면인 아래 그림은, CG를 이용한 VFX 작업의 예를 보여주는 것이다. 실제 피아니스트의 얼굴에 마커를 붙이고 촬영하여, 피아니스트의 얼굴을 영화배우의 얼굴로 교체했다. 여기에 쓰인 기술은 카메라 트래킹 기술 및 3차원 스캔 기술, 합성 기술 등이 적용되어 마치 실제 영화배우가 피아노를 치는 모습을 구현했다.<br/>
 
@@ -210,7 +219,18 @@ VFX의 기법<br/>
 ![텍스트](https://qph.fs.quoracdn.net/main-qimg-5ac514ad958db349949e1fa2d3e86287)<br/>
 ![텍스트](https://www.youtube.com/watch?v=VZk9mdVLb5w"Superman vs Justice League | Behind The Scenes")<br/>
 
-미래에는 실제로 기존의 고전적 특수효과로는 카메라 트릭으로 재현하던 것들이디지털 VFX를 거쳐 고속촬영이나 디지털 인터미디어트를 이용해 다양한 카메라 트릭의 연출이 가능해지고, 특수 분장이나 미니어처 등도 CG합성으로 대체하거나 스턴트 또한 모션캡쳐 및 동역학 시뮬레이션, 디지털 액터로 실제 스턴트맨이 하지 않고 배우 본인의 동역학을 모델링해 배경에 적용시키는 기술이 이루어지고 있기 때문에 VFX의 영역은 점점 더 넓어질 것으로 예상된다.
+넷플릭스 드라마 '기묘한 이야기'
+
+https://vimeo.com/348948455(출처)<br/>
+
+![텍스트](https://i2.wp.com/www.3dart.it/wp-content/uploads/2019/07/Stranger-Things-Season-3-VFX-Breakdown_0000_Layer-1-copy-5.jpg?w=1920&ssl=1)<br/>
+![텍스트](https://i2.wp.com/www.3dart.it/wp-content/uploads/2019/07/Stranger-Things-Season-3-VFX-Breakdown_0001_Layer-1.jpg?w=1920&ssl=1)<br/>
+
+![텍스트](https://i0.wp.com/www.3dart.it/wp-content/uploads/2019/07/Stranger-Things-Season-3-VFX-Breakdown_0003_Layer-1-copy-2.jpg?w=1920&ssl=1)<br/>
+![텍스트](https://i0.wp.com/www.3dart.it/wp-content/uploads/2019/07/Stranger-Things-Season-3-VFX-Breakdown_0004_Layer-1-copy-3.jpg?w=1920&ssl=1)<br/>
+
+![텍스트](https://i2.wp.com/www.3dart.it/wp-content/uploads/2019/07/Stranger-Things-Season-3-VFX-Breakdown_0005_Layer-1-copy-4.jpg?w=1920&ssl=1)<br/>
+
 
 ---------------------------------------------------------------------------
 
@@ -277,7 +297,13 @@ VFX의 기법<br/>
                 - Syntheyes
                 
         
-### 1. VFX의 전망<br/>
+### 2. VFX의 전망<br/>
+
+미래에는 실제로 기존의 고전적 특수효과로는 카메라 트릭으로 재현하던 것들이디지털 VFX를 거쳐 고속촬영이나 디지털 인터미디어트를 이용해 다양한 카메라 트릭의 연출이 가능해지고, 
+특수 분장이나 미니어처 등도 CG합성으로 대체하거나 스턴트 또한 모션캡쳐 및 동역학 시뮬레이션, 디지털 액터로 실제 스턴트맨이 하지 않고 배우 본인의 동역학을 모델링해 배경에 적용시키는 
+기술이 이루어지고 있기 때문에 VFX의 영역은 점점 더 넓어질 것으로 예상된다.<br/>
+
+또한 가상현실(VR,MR)과 혼합한 게임, 영상, 영화, 애니메이션쪽 등이 발전할 것으로 예상된다.
 
 ---------------------------------------------------------------------------
 #### 참고자료 및 출처

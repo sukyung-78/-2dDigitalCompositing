@@ -219,9 +219,10 @@ VFX의 기법<br/>
 ![텍스트](https://qph.fs.quoracdn.net/main-qimg-5ac514ad958db349949e1fa2d3e86287)<br/>
 ![텍스트](https://www.youtube.com/watch?v=VZk9mdVLb5w"Superman vs Justice League | Behind The Scenes")<br/>
 
-넷플릭스 드라마 '기묘한 이야기'
+넷플릭스 드라마 '기묘한 이야기'<br/>
 
-https://vimeo.com/348948455(출처)<br/>
+출처:<br/>
+https://vimeo.com/348948455<br/>
 
 ![텍스트](https://i2.wp.com/www.3dart.it/wp-content/uploads/2019/07/Stranger-Things-Season-3-VFX-Breakdown_0000_Layer-1-copy-5.jpg?w=1920&ssl=1)<br/>
 ![텍스트](https://i2.wp.com/www.3dart.it/wp-content/uploads/2019/07/Stranger-Things-Season-3-VFX-Breakdown_0001_Layer-1.jpg?w=1920&ssl=1)<br/>

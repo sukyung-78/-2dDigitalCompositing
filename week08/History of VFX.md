@@ -47,12 +47,21 @@ SFX(Special Effects) : 실제 특수 효과<br/>
 
 VFXVisual effects) : 컴퓨터로 프레그래밍 한 특수효과<br/>
 <vfx의 예><br/>
-![Alt Text](https://i.gifer.com/7jjF.gif)<br/>
+![](https://i.ytimg.com/vi/NTc1VwnY-EA/maxresdefault.jpg)<br/>
 ![Alt Text](https://terrigen-cdn-dev.marvel.com/content/prod/1x/capvcap_vfx_gif_1.gif)<br/>
 
+SFX를 사용하는 경우<br/>
 
-둘의 차이점은 생산 과정에서 수행하는 부분에 있다. 
+        특수 효과는 영화 및 TV 제작에서 더 단순한 시간을 생각 나게한다. SFX는 씬이나 세트 피스를 향상시키는 데 사용되었다. 폭발이나 불, 눈 등 인생에서 자발적으로 일어날 수 있지만 세트에서 실제 계획이 필요한 일. 온셋 SFX의 일반적인 예로는 눈 내리기, 빗물 내리기 또는 분위기 만들기를위한 연기 추가 등이 있다. SFX 스킬 세트의 다른 부분에는 불을 추가하는 것이 포함된다. 세트에 옷을 입히거나 사람들과 함께 스턴트의 일부로 사용할 수 있다.
 
+        VFX를 사용하여 이러한 모든 효과를 수행 할 수 있지만 일반적으로 설정 SFX가 더 '실제'처럼 보이기 때문에 가능하면 카메라에서 사물을 캡처하는 것이 좋습니다. 불, 눈, 연기, 비 등 세트장에서 제작하고 촬영할 수 있다면 포스트 프로덕션에서 시각 효과로 디지털 방식으로 제작하는 것보다 효과가 더 좋으며 비용도 저렴합니다.
+
+VFX가 향후 SFX를 대체될 가능성<br/>
+
+        불, 눈, 연기와 같은 더 큰 예산 VFX '요소'가있는 쇼의 경우 솔루션이 SFX를 대체 할 수 있다. 그러나 시리즈 나 영화는 VFX로 강화 된 온셋 SFX의 조합을 사용하는 경우가 더 많다. 예를 들어 배우가 앉아있는 전경에 SFX 눈이 있고 배경에 VFX 눈이 추가되고 더 넓은 샷이있는 장면을 촬영할 수 있다. 
+
+        또는 화염 방사기를 사용하는 배우를 원할 수 있으므로 건강 및 안전상의 이유로 화염 방사기로 촬영하지만 실제 화염은 사용하지 않는다. 그런 다음 나중에 SFX 불꽃 요소를 촬영하고 장면에 합성한다. 어떤 이유로 든 SFX 요소가 원하는대로 '동작'하지 않는 경우 VFX 불꽃을 추가하여 원하는 효과 나 효과를 만들 수 있다.
+        즉, 어느 정도 대체 가능하지만 둘이 어느정도 혼합하여 사용하지 VFX가 SFX를 완전히 대체될 가능성은 적다.
 
 
 ### 3. VFX의 분야(종류)<br/>
@@ -174,3 +183,4 @@ VFX의 기법<br/>
 1) https://www.clipstudio.net/how-to-draw/archives/156700
 1) https://skywell.software/blog/what-is-motion-capture-definition-and-features/
 1) http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=8ae6f55072b03c6fffe0bdc3ef48d419&outLink=K
+1) https://www.realtimeuk.com/blog/special-effects-vs-visual-effects/

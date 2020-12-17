@@ -149,8 +149,8 @@ VFX 기술 발전이 다시금 시작된 계기가 된 것은 스탠리 큐브�
 
 애니메이션의 VFX 발전
 
-[텍스트](https://i.ytimg.com/vi/LXEB-t9s164/hqdefault.jpg)<br/>
-[텍스트](https://i1.wp.com/clemson.world/wp-content/uploads/2018/01/TeKa1.jpg)<br/>
+![텍스트](https://i.ytimg.com/vi/LXEB-t9s164/hqdefault.jpg)<br/>
+![텍스트](https://i1.wp.com/clemson.world/wp-content/uploads/2018/01/TeKa1.jpg)<br/>
 ### 4. 영화의 VFX<br/>
 
 ### 5. 게임의 VFX 

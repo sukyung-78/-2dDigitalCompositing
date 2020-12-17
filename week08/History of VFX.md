@@ -134,12 +134,14 @@ VFX 기술 발전이 다시금 시작된 계기가 된 것은 스탠리 큐브�
 ![텍스트](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODA2MDRfMjg1%2FMDAxNTI4MDgzMzM0OTM4.9eRZqBF5kkewzWE25NJdIitvlt-FTdxPRuZ33_58QDIg.VVvjOab7ztZpAsvQCZZAfx0F5NEYXBAbaJs99TDNEbsg.JPEG.conradmajors%2Flarge_e2TB0dAx7kqN2RoEhYlKndUU31B.jpg&type=sc960_832)<br/>
 
 80년대 까지 CG는 실사와의 합성 밑 배경 표현을 위한 수단으로만 사용됐었다. 하지만 〈터미네이터 2〉(1991)에 등장한 액체금속 로봇 T1000을 통해 관객들에게 충격을 줬으며, 이듬해 〈쥬라기 공원(Jurassic Park)〉(1993)의 디지털 공룡으로 이어진다. 스티븐 스필버그는 처음에는 애니매트로닉스를 이용해서 공룡 모형을 제작해서 촬영하고 CG 장면은 보조적으로만 사용할 계획이었으나, ILM이 제작한 공룡의 CG 샘플을 보고 디지털 공룡을 영화 전면에 등장시키기로 결정했고, 그 결과 영화 속 내용 그대로 이미 멸종해버린 공룡들을 스크린에 부활시켜놓은 듯한 시각적 체험을 제공했다.<br/>
-![텍스트](https://dbscthumb-phinf.pstatic.net/4548_000_1/20160812113408059_CXZ3DG5D2.jpg/ka36_2_i12.jpg?type=w460_fst&wm=N)<br/>
 
+![텍스트](https://dbscthumb-phinf.pstatic.net/4548_000_1/20160812113408059_CXZ3DG5D2.jpg/ka36_2_i12.jpg?type=w460_fst&wm=N)<br/>
+<br/>
 이후, 영화 속 디지털 액터가 실사배우와 거의 근접한 지위까지 올라가는 한편, 같은 시기에 배우만 실사배우이되, 그 밖에 모든 것은 100% CG 작업으로 해결하는 일명 '스크린 영화'도 나타나기 시작하였다. 스크린 영화에서 배우들은 블루, 혹은 그린 스크린 앞에서 상상에 근거해서 연기를 하고, 실제 시각화는 CG로 만들어진 배경과의 합성을 통해서야 비로소 가능해진다.<br/>
 2004년 공개된 〈월드 오브 투모로우(Sky Captain And The World Of Tomorrow)〉는 영화의 모든 배경을 CG로 처리한 최초 의 100% 스크린 영화였다. 그 뒤를 〈씬시티(Sin City)〉(2005)가 이었다. 헐리우드 이외에 일본에서도 〈캐산(Casshern)〉(2004)을 통해 같은 시도가 이루어졌다.<br/>
 
 ![텍스트](https://dbscthumb-phinf.pstatic.net/4548_000_1/20160812113411746_8IHFQC43J.jpg/ka36_2_i16.jpg?type=w406_fst&wm=N)
+
 
 ### 3. 애니메이션의 VFX<br/>
 
@@ -154,7 +156,8 @@ VFX의 기법<br/>
                 매트 페인팅은 이야기 세상의 그럴듯함을 보장하는 배경 이미지를 재현하므로 고도의 사실적 표현이 요구된다. 
                 <오즈의 마법사>에서 매트 페인팅은 오즈의 나라의 환상성을 보여 주는 미학적 기제로 작용하는 동시에 주요 사건의 배경 공간을 사실적으로 재현하면서 이야기의 현실감을 높여 주었다.
         
-![Alt Text](https://thumbs.gfycat.com/SadUnripeBeagle-small.gif)<br/>
+![Alt Text](https://thumbs.gfycat.com/SadUnripeBeagle-small.gif)
+![Alt Text](https://thumbs.gfycat.com/DigitalMiserlyCavy-small.gif)<br/>
         
         - 크로마키
                 텔레비전의 화상합성(畵像合成)을 위한 특수기술.비디오신 또는 매직신이라고도 한다. 
@@ -162,11 +165,15 @@ VFX의 기법<br/>
                 라이트블루의 스크린 앞에 인물이나 물체를 배치하고 컬러 카메라로 촬영하여 이 피사체상(被寫體像)을 아주 다른 화면에 끼워 맞추는 수법이며, 
                 흑백 ·컬러 텔레비전의 어느 것에도 사용할 수가 있다. 
                 끼워 맞춰지는 피사체에는 블루 계통의 색을 사용하면 잘 안되지만 반대로 블루 계통의 색을 의식적으로 사용해서 특수한 효과를 낼 수도 있다.
-        
+                
+
+
         - 모션 캡쳐
                 사람, 동물 또는 기계 등의 사물에 센서를 달아 그 대상의 움직임 정보를 인식해 애니메이션, 영화, 게임 등의 영상 속에 재현하는 기술이다.
                 모션 캡쳐의 단점은 비용이 많이 든다는 점이 있다. 또한, 물리 법칙에 위배되는 즉, 캐릭터가 날거나 거꾸로 매달려 있는 경우는 모션 캽쳐를 사용할 수 없다.
                 
+![Alt Text](https://i.imgur.com/S4SP7e6.gif)<br/>
+![Alt Text](https://static2.businessinsider.com/image/537d06606bb3f7c46c57d10e-/andy-serkis-planet-of-the-apes.gif)<br/>
 
 *SFX의 기법<br/>
 
@@ -205,7 +212,9 @@ VFX의 기법<br/>
 
 미래에는 실제로 기존의 고전적 특수효과로는 카메라 트릭으로 재현하던 것들이디지털 VFX를 거쳐 고속촬영이나 디지털 인터미디어트를 이용해 다양한 카메라 트릭의 연출이 가능해지고, 특수 분장이나 미니어처 등도 CG합성으로 대체하거나 스턴트 또한 모션캡쳐 및 동역학 시뮬레이션, 디지털 액터로 실제 스턴트맨이 하지 않고 배우 본인의 동역학을 모델링해 배경에 적용시키는 기술이 이루어지고 있기 때문에 VFX의 영역은 점점 더 넓어질 것으로 예상된다.
 
- ## 4. VFX의 미래 및 가능성<br/>
+---------------------------------------------------------------------------
+
+## 4. VFX의 미래 및 가능성<br/>
  
 ### 1. VFX의 현황<br/>
         
@@ -267,11 +276,10 @@ VFX의 기법<br/>
                 - Nuke
                 - Syntheyes
                 
-
-
         
 ### 1. VFX의 전망<br/>
 
+---------------------------------------------------------------------------
 #### 참고자료 및 출처
 1) https://terms.naver.com/entry.nhn?docId=2834230&cid=43659&categoryId=43659
 1) https://www.studiobinder.com/blog/what-is-vfx/
